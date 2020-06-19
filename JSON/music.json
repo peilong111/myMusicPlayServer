@@ -1,0 +1,21 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "src": "http://106.52.163.23:3000/public/%E7%BA%A2%E8%89%B2%E9%AB%98%E8%B7%9F%E9%9E%8B.mp3",
+            "name": "红色高跟鞋",
+            "musicType": ["liuxing","tuijian","huayu","yaogun","minyao","dianzi"],
+            "singer": "杨涛",
+            "time": 120
+        },
+        {
+            "id": 2,
+            "src": "http://106.52.163.23:3000/public/1.mp3",
+            "name": "红色高跟鞋1",
+            "musicType": ["liuxing","tuijian","huayu","yaogun","minyao"],
+            "singer": "杨涛1",
+            "time": 120
+        }
+    ],
+    "total": 1
+}

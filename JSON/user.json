@@ -1,0 +1,63 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name": "用户1",
+            "listId": [
+                1,
+                2,
+                1592451875530,
+                1592452050544,
+                1592453393819
+            ],
+            "friendList": [
+                1,1592288320955
+            ],
+            "headSrc": "http://106.52.163.23:3000/public/img/01.png",
+            "account": "1111",
+            "password": "1111",
+            "shareId": [
+                0,1
+            ]
+        },
+        {
+            "id": 1,
+            "name": "用户2",
+            "listId": [
+                0
+            ],
+            "friendList": [
+                0
+            ],
+            "headSrc": "http://106.52.163.23:3000/public/img/02.png",
+            "account": "1121",
+            "password": "1111",
+            "shareId": [
+                0
+            ]
+        },
+        {
+            "id": 1592288320955,
+            "listId": [
+                0
+            ],
+            "friendList": [],
+            "headSrc": "http://106.52.163.23:3000/public/img/03.png",
+            "account": "",
+            "password": "",
+            "shareId": []
+        },
+        {
+            "id": 1592288829732,
+            "listId": [
+                0
+            ],
+            "friendList": [],
+            "headSrc": "http://106.52.163.23:3000/public/img/01.png",
+            "account": "4444",
+            "password": "4444",
+            "shareId": [1]
+        }
+    ],
+    "total": 4
+}

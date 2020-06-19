@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "time": "312312123",
+            "shareText": "我分享了好多东西",
+            "shareImg": [],
+            "shareVideo": "",
+            "good": 0,
+            "send": 0,
+            "comment": 0
+        },
+        {
+            "id": 1,
+            "time": "312312123",
+            "shareText": "jjlkjlk454545很骄傲发噶控件的sjkfgjak Kjhkjhjkhjhjhjh",
+            "shareImg": [],
+            "shareVideo": "",
+            "good": 0,
+            "send": 0,
+            "comment": 0
+        },
+        {
+            "id": 2,
+            "time": "312312123",
+            "shareText": "jjlkjlk454545很骄傲发噶控22222222222222222",
+            "shareImg": [],
+            "shareVideo": "",
+            "good": 0,
+            "send": 0,
+            "comment": 0
+        }
+    ],
+    "total": 3
+}
